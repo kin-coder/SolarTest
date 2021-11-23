@@ -11,6 +11,7 @@ Mini projet sur l'insertion d'un utilisateur et affichage sous forme de galerie 
 
 #### Controller:
 * Studentcontroller
+
 `* avec les fonctions suivantes:`
 
 `* listStudents() : pour lister tous les students`
